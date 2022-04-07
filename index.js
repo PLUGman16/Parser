@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const cheerio = require('cherio');
+const cheerio = require('cheerio');
 
 const url = 'https://yandex.ru/news?utm_source=main_stripe_big'
 
